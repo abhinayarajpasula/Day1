@@ -1,0 +1,1 @@
+Blog about http/1.1 vs http/2
